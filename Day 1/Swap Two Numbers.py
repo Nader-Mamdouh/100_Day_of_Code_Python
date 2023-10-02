@@ -1,3 +1,4 @@
+#Day 1.2
 a = input("a : ")
 b = input("b : ")
 temp = a
