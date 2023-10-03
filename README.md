@@ -7,6 +7,6 @@ this challenge is a great way to improve your Python skills and build coding hab
 ## Challenge Overview
 
 - **Duration**: 100 days
-- **Start Date**: October 1, 2023.
-- **End Date**: January 10, 2024.
+- **Start Date**: October 2, 2023.
+- **End Date**: January 11, 2024.
 - **Goal**: Code for at least one hour every day, learn something new, and work on coding projects.
