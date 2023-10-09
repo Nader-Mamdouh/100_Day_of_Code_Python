@@ -1,4 +1,5 @@
 #challenge 1
+#pick random word
 import random
 word_list = ["nader", "mamdouh", "ahmed"]
 word = random.choice(word_list)
