@@ -1,4 +1,4 @@
-Project Overview:
+#Project Overview:
 This is a simple password manager implemented in Python using the Tkinter library for the graphical user interface. The application allows users to store website names, email addresses, and passwords securely in a JSON file.
 
 Features:
