@@ -1,4 +1,5 @@
 Password Manager
+
 Project Overview:
 This Python-based password manager utilizes the Tkinter library to provide a user-friendly graphical interface. It enables users to securely store website names, email addresses, and passwords in a JSON file.
 
@@ -22,7 +23,9 @@ JSON file to securely store website, email, and password data.
 Dependencies:
 Python 3.x
 Tkinter (standard GUI toolkit for Python)
+
 How to Run:
+
 Ensure Python is installed on your machine.
 Run the password_manager.py script.
 Instructions:
